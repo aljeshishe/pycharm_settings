@@ -1,0 +1,28 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="EditSource" />
+  <action id="EditorToggleCase" />
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="hg4idea.branches">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+</keymap>

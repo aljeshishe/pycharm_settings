@@ -1,0 +1,28 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ringcentral.com:443" />
+          <option name="userName" value="alexey.grachev" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ringcentral.com" />
+          <option name="userName" value="alexey.grachev" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ritscm.regeneron.com" />
+          <option name="userName" value="aleksei.grachev" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Documents" />
+  </component>
+</application>
