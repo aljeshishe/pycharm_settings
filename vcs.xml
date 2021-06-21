@@ -14,8 +14,17 @@
           <option name="url" value="http://ritscm.regeneron.com" />
           <option name="userName" value="aleksei.grachev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aljeshishe/colab/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jupyterlab/jupyterlab" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
