@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/mbk-dev/okama" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aljeshishe/utils" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/#my" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
